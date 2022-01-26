@@ -1,4 +1,8 @@
 # **Discussion**
+Starlivia Kaska
+
+January 26, 2022
+
 
 **1. What are boundary conditions?  Answer this both conceptually and mathematically.**
 
