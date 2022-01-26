@@ -1,7 +1,7 @@
 # **The Challenge Answers**
 Starlivia Kaska
 
-January 25,2022
+January 26,2022
 
 
 **1. Show, based on the flux with depth, that the model is steady state. Repeat this for a homogeneous and for a heterogeneous column.**
