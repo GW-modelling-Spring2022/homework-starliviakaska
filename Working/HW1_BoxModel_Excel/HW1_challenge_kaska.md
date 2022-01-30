@@ -15,6 +15,9 @@ Figure 1. Homogeneous: K values for all cells were 1 (.004). This shows a steady
 
 Figure 2. Heterogeneous: z(0-30) had K values of 2(0.01) and z(35-60) had K values of 3(.0001). This shows a steady state model as the flux is constant with depth.
 
+**Answer:** 
+
+Conceptual Model: You should have just drawn a rectangle with 12 cells with head equal to 100 and bottom head equal to 0. flow from high to low. Z top equal to 60 and z bottom equal to 0. She asked what is a contant head boundary, the answer is dh/dt = 0 at top and dh/dt=0 at bottom. Constant head means that flux can change. We assume that there is no cross flow, we assume fully saturated and that means Ksat always the same, we use Darcy's Law, q=Ksat(dh/dL).
 
 
 **2. Show that the steady state flux agrees with the direct calculation based on the harmonic mean average K. Write the equation defining the direct calculation of the flux.**
@@ -28,9 +31,14 @@ Figure 3. This shows the Keq for the homogeneous column was 0.0004. When you plu
 
 The equation for the direct calculation of the flux is q = Q/A = -K(dh/dL)
 
+
 **3. Show the steady state head profile for a column with appproximately equal-thickness layers that have different K values.** 
 ![](assets/heterogeneousq3(1).jpg)  ![](assets/heterogeneousQ3(2).jpg)
 
 **4. Use the head profile to explain WHY the equivalent Hydraulic conductivity, Keq, is closer to the lower of the two K values.** 
 
 When using the head profile, the explanation seems to be that the equivalent Hydraulic conductivity is closer to the lower of the two K values as the smaller K value has a smaller change in hydraulic head. 
+
+**Answer:**
+
+We do a harmonic mean and it will be much closer to the lower value. 

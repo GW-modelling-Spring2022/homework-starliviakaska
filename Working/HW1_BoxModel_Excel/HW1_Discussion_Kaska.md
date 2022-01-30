@@ -4,6 +4,10 @@
 
    Boundary conditions are what constrain a situation and this could set the stage for something to happen within. Mathematically a boundary condition is a problem you are asked to solve within a set domain. 
 
+   ***Answer:***
+
+   
+
 **2. What are model parameters?  How do they (and don't they) represent the actual subsurface?**
 
    Model parameters are mathematically set domains. They could prepresent the actual subsurface if we were using real data collected from an area. On the other hand, model parameters don't represent the actual subsurface if we were just creating and coming up with data, like in a simulation. That is just my guess. 
